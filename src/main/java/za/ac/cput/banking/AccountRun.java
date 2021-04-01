@@ -15,6 +15,15 @@ public class AccountRun {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+           Account chriszano = new Account();
+
+            chriszano.setName("Chriszano");
+
+            chriszano.setId("192947298734");
+
+            chriszano.setAccountType("Student Account");
+
+            chriszano.toString();
         
     }
 }
