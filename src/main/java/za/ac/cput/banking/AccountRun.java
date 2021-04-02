@@ -7,7 +7,8 @@ package za.ac.cput.banking;
 
 /**
  *
- * @author User
+ * @author Chriszano Cleophas
+ * Student Number 219258341
  */
 public class AccountRun {
 
